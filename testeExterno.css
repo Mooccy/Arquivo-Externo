@@ -1,0 +1,29 @@
+body {
+	background-color: purple;
+	text-align: center;
+	font-size: 40px;
+}
+.banana {
+	font-size: 30px;
+	color: lightcoral;
+}
+.banana2 {
+	font-size: 25px;
+	color: lightpink;
+}
+.banana3 {
+	font-size: 50px;
+	color: mistyrose;
+}
+.banana4 {
+	font-size: 125px;
+	color: violet;
+	text-align: !important;
+	shape-margin: 400px;
+}
+.box {
+	background-color: darkviolet;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 1000px;
+}
